@@ -1,0 +1,7 @@
+let myCountry="India";
+let myContinent="Asia";
+let myPopulation="1428.6 million";
+
+console.log(myCountry);
+console.log(myContinent);
+console.log(myPopulation);
